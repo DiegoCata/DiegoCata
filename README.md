@@ -29,7 +29,7 @@
 Let's create something amazing together! 🚀
 
 <details>
-  <summary >Areas of Interest and Expertise 👨‍💻</summary>
+  <summary ><h2>Areas of Interest and Expertise 👨‍💻</h2></summary>
  
   <pre >
   -🌐 Web Development: I love building interactive and appealing web applications using technologies
