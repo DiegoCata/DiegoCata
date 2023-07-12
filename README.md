@@ -7,6 +7,16 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV2dWlzZzQyYm4weXBjYTlsN2k3cmN2eTJraHF6aDM0aGpsY2xidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGU6miMlCx7jLH5Ynr/giphy.gif" alt="Diego Cata" />
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.facebook.com/diego.fernando.3572"><img width="32px" alt="Facebook" title="Youtube" src="https://cdn.icon-icons.com/icons2/792/PNG/512/FB_icon-icons.com_65534.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/fernando_cata26/"><img width="32px" alt="Instagram" title="Twitter" src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Web Site" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.icon-icons.com/icons2/2985/PNG/512/global_world_earth_web_network_globe_icon_187131.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 
 👨🏻‍💻 **About Me**
 
