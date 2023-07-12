@@ -19,7 +19,16 @@
 
 Let's create something amazing together! 🚀
 
-
+<details>
+  <summary >Areas of Interest and Expertise 👨‍💻</summary>
+ 
+  <pre >
+  -🌐 Web Development: I love building interactive and appealing web applications using technologies
+  -🤖 Artificial Intelligence: I am fascinated by the power of artificial intelligence 
+  -🔒 Cybersecurity: Protecting information is of vital importance in today's digital world.
+  -🚀 Open Source Contributions: I am excited to participate in open source projects and collaborate with the community.
+</details>
+    
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
