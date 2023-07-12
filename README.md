@@ -1,4 +1,8 @@
-## Hey there! I'm Diego 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="Gif1.webp" alt="Diego Cata" /></a>
+</p>
+
 
 👨🏻‍💻 **About Me**
 
