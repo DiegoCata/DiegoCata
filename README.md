@@ -1,4 +1,7 @@
-![GifCodigo](https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" alt="Logo de GitHub" width="100%">
+</div>
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV2dWlzZzQyYm4weXBjYTlsN2k3cmN2eTJraHF6aDM0aGpsY2xidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGU6miMlCx7jLH5Ynr/giphy.gif" alt="Diego Cata" />
